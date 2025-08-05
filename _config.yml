@@ -3,7 +3,7 @@ email: josiah@bridgepoints.net
 description: >-
   Connecting Students to Opportunity — BridgePoints facilitates real-world, school-based internships led by CTE teachers.
 baseurl: ""  # Keep empty if publishing to the root of bridgepoints.net
-url: "https://bridgepoints.net"
+url: "https://markdavisson1345.github.io/bridgepoints-site/"
 
 remote_theme: pages-themes/cayman@v0.2.0
 
