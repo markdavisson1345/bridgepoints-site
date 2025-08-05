@@ -5,9 +5,8 @@ permalink: /contact/
 ---
 
 ## Contact Us
-
-**Josiah Davisson**  
-📧 josiah.davisson@gmail.com
+Josiah Davisson - Director
+📧 Josiah@bridgepoints.net
 
 BridgePoints is headquartered in Las Vegas, Nevada.  
 We welcome inquiries from school districts, educators, and corporate partners.
