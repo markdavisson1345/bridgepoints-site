@@ -1,0 +1,13 @@
+title: BridgePoints
+email: josiah.davisson@gmail.com
+description: >-
+  Connecting Students to Opportunity — BridgePoints facilitates real-world, school-based internships led by CTE teachers.
+baseurl: ""  # Keep empty if publishing to the root of bridgepoints.net
+url: "https://bridgepoints.net"
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
+
+github_username: bridgepoints
