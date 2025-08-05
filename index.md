@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![BridgePoints Logo](/assets/logo-dark.png)
+![BridgePoints Logo](/assets/BP Logo Color.png)
 
 # BridgePoints  
 ### Connecting Students to Opportunity
